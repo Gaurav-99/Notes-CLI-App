@@ -27,13 +27,16 @@ To get started:
 ```
 > node NotesApp.js --help
 ```
-![Screen Shot for help command]!([Uploading Help.JPG…])
+![Help](https://user-images.githubusercontent.com/51323586/131673892-9dd11af8-c776-4ee3-ab83-5755b4e56845.JPG)
 
+* To add a note
+```
+> node app.js add --title="My title" --body="MY body"
+```
+![adding notes](https://user-images.githubusercontent.com/51323586/131674079-30f40f74-95a9-4f2d-995d-f07cbe98f02f.JPG)
 
-```
-> node app.js add --title "Study" --body "Learn NodeJS"
-```
-![Screen Shot for add command](docs/Screen_add.png?raw=true)
+* After adding notes our NoteData.json file will look like this
+![NotesData-json-file](https://user-images.githubusercontent.com/51323586/131674359-1bbd9d50-f13d-4988-94b1-aa3a668a90a8.JPG)
 
 ```
 > node app.js list
