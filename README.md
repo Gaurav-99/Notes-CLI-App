@@ -42,6 +42,7 @@ To get started:
 ```
 > node app.js list
 ```
-![Screen Shot for list command](docs/Screen_list.png?raw=true)
+![List-command](https://user-images.githubusercontent.com/51323586/131674894-d4427078-aeb6-4415-981c-cd973f59e67f.JPG)
+
 
 
