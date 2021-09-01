@@ -1,0 +1,19 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "Command line app to View,store and delete notes",
+  "main": "NotesApp.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.12",
+    "validator": "^13.6.0",
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Joshi",
+  "license": "ISC"
+}
