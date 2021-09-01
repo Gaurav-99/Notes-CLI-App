@@ -65,7 +65,8 @@ To get started:
  * After removing a note
 ![NotesData-json-file-2JPG](https://user-images.githubusercontent.com/51323586/131676410-c3d67c24-6ea6-401e-afd9-e873b338152c.JPG)
 
-Eroors
+#Eroors
+
 * Unrecognized Command ERROR
 ![command-error](https://user-images.githubusercontent.com/51323586/131676607-8bc99596-3107-4a2f-95a2-c493e4d84bc2.JPG)
 
