@@ -36,6 +36,7 @@ To get started:
 ![adding notes](https://user-images.githubusercontent.com/51323586/131674079-30f40f74-95a9-4f2d-995d-f07cbe98f02f.JPG)
 
 * After adding notes our NoteData.json file will look like this
+
 ![NotesData-json-file](https://user-images.githubusercontent.com/51323586/131674359-1bbd9d50-f13d-4988-94b1-aa3a668a90a8.JPG)
 
 ```
