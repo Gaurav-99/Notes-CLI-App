@@ -1,12 +1,16 @@
 # Notes CLI App
 * A NodeJS CLI App which takes Notes  
+*   Add note -> Requires user to enter Title and Body of the note and adds the note to our databse (json file)
+*   Remove note -> Requires user to enter the Title of the note they want to remove and removes that note
+*   List notes ->Lists the title of all the notes present
+*   Read note -> Requires user to enter the title of the note they want to read and displays the body of that note on the terminal
 
 
 ## How to run
 
 To get started:
 
-* install all project dependencies with `npm install`
+* install all project dependencies with ` npm install `
 
   Notable dependencies:
 ```js
@@ -23,22 +27,8 @@ To get started:
 ```
 > node NotesApp.js --help
 ```
-![Screen Shot for help command](demo/Help.png?raw=true)
+![Screen Shot for help command]!([Uploading Help.JPG…])
 
-```
-> node app.js add --help
-```
-![Screen Shot for add help command](docs/Screen_add_help.png?raw=true)
-
-```
-> node app.js read --help
-```
-![Screen Shot for read help command](docs/Screen_read_help.png?raw=true)
-
-```
-> node app.js remove --help
-```
-![Screen Shot for remove help command](docs/Screen_remove_help.png?raw=true)
 
 ```
 > node app.js add --title "Study" --body "Learn NodeJS"
