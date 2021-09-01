@@ -68,11 +68,14 @@ To get started:
 #Eroors
 
 * Unrecognized Command ERROR
+
 ![command-error](https://user-images.githubusercontent.com/51323586/131676607-8bc99596-3107-4a2f-95a2-c493e4d84bc2.JPG)
 
 * Title alread taken ERROR
+
 ![Note-title-alreadyTakenError](https://user-images.githubusercontent.com/51323586/131676728-010198d1-8ce0-40c8-b4d8-d6954156e1eb.JPG)
 
 * Remove non existing note ERROR
+
 ![remove-command-error](https://user-images.githubusercontent.com/51323586/131676778-db46f474-3412-438c-a1e0-dd937e763bcd.JPG)
 
