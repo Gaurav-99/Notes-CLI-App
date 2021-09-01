@@ -63,7 +63,8 @@ To get started:
 ```
 
  * After removing a note
-![NotesData-json-file-2JPG](https://user-images.githubusercontent.com/51323586/131676410-c3d67c24-6ea6-401e-afd9-e873b338152c.JPG)
+ 
+ ![NotesData-json-file-2JPG](https://user-images.githubusercontent.com/51323586/131676410-c3d67c24-6ea6-401e-afd9-e873b338152c.JPG)
 
 # Errors
 
